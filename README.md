@@ -1,3 +1,13 @@
+---
+
+## :loudspeaker: ATTENTION:
+
+This repo has been archived as code is moved to https://github.com/asyncapi/cli/tree/master/src/apps/api.
+
+## :loudspeaker: ATTENTION:
+---
+
+
 [![AsyncAPI Server API](./.github/assets/banner.png)](https://www.asyncapi.com)
 
 Server API providing official AsyncAPI tools.
@@ -6,13 +16,7 @@ Server API providing official AsyncAPI tools.
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
----
 
-## :loudspeaker: ATTENTION:
-
-This package is still under development and has not published and reached version 1.0.0 yet. This means that its API may contain breaking changes until we're able to deploy the first stable version and begin semantic versioning.
-
----
 
 <!-- toc is generated with GitHub Actions do not remove toc markers -->
 
